@@ -4,4 +4,4 @@
 _mytest_
 __mytest__
 ~~mytest~~
-[zhou](/zhou.txt)
+[zhou](./zhou.txt)
